@@ -1,0 +1,12 @@
+<svg fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink= "http://www.w3.org/1999/xlink">
+    <foreignObject width="100%" height="100%">
+        <div id="header" align="center">
+            <style>
+                #mainImg{
+                  border-radius: 50%;
+                }
+            </style>
+            <image id="mainImg" href="https://cdn.discordapp.com/avatars/892482644275765289/a_b969ddedb65a502fcdb6c0d87781bf85.gif" width="400px" height="400px"/>
+        </div>
+    </foreignObject>
+</svg>
