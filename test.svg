@@ -6,7 +6,7 @@
                   border-radius: 50%;
                 }
             </style>
-            <image id="mainImg" href="https://cdn.discordapp.com/avatars/892482644275765289/a_b969ddedb65a502fcdb6c0d87781bf85.gif" width="400px" height="400px"/>
+            <image id="mainImg" href="./pfp.gif" width="400px" height="400px"/>
         </div>
     </foreignObject>
 </svg>
