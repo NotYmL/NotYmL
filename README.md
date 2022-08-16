@@ -10,3 +10,6 @@
 
 ### My stats:
 ![YmL's GitHub stats](https://github-readme-stats.vercel.app/api?username=notyml&show_icons=true&theme=radical)
+
+  
+BTW i hate .svg files
