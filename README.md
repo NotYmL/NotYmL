@@ -38,3 +38,5 @@
 <div>
 
 BTW i hate .svg files
+
+<a href="https://discord.gg/S7sb24pCzn" target="_blank"><img src="https://raw.githubusercontent.com/NotYmL/NotYmL/main/lol.svg" alt="snake"></a>
