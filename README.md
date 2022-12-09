@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <h1>GO TO MY WEBSITE NOW cuz i say so<h1/>
-  <a href="https://yml.wtf/">https://ZaDomSpremni.com/</a>
+  <a href="https://zadomspremni.com/">https://ZaDomSpremni.com/</a>
 </div>
 
 ### Most used languages:
