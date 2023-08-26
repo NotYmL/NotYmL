@@ -16,6 +16,7 @@
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Cloudflare-Dark.svg" width="48">
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Electron.svg" width="48">
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/ExpressJS-Dark.svg" width="48">
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Flask-Dark.svg" width="48">
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Linux-Dark.svg" width="48">
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/VisualStudio-Dark.svg" width="48">
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/VSCode-Dark.svg" width="48">
